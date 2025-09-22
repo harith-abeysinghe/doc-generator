@@ -61,8 +61,8 @@ This project implements a robust, production-ready document generation pipeline,
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/doc-generation-service.git
-cd doc-generation-service
+git clone https://github.com/harith-abeysinghe/doc-generator.git
+cd doc-generator
 ```
 
 2. Configure MongoDB & S3 credentials in `application.properties` or environment variables.
