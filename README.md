@@ -1,5 +1,3 @@
----
-
 # 📄 Document Generation Service
 
 **A full-stack Spring Boot + React application to generate DOCX, convert to PDF, and produce CSV/ZIP outputs with resilient job handling and S3 integration.**
